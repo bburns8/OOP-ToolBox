@@ -21,7 +21,7 @@ class Tesla:
                f' {self.model_3},' \
                f' {self.roadster},' \
                f' and the {self.cybertruck}.'
-    def 
+    def
 
 
 class SpaceX:
